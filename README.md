@@ -3,5 +3,5 @@ This is basically a CRUD Application/ User Management system where we can creare
  REST API is created and is also used . JQUERY, AXIOS , AJax are also used.
  
  # To run locally
-  *npm i 
-  *nodemon server.js
+  -npm i 
+  -nodemon server.js
